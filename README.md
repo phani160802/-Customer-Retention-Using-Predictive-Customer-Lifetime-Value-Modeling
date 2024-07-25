@@ -1,1 +1,5 @@
-# -Customer-Retention-Using-Predictive-Customer-Lifetime-Value-Modeling
+# Customer-Retention-Using-Predictive-Customer-Lifetime-Value-Modeling
+
+In today's competitive market, retaining customers is crucial for maximizing profits. Our project aimed to develop a strategic retention plan using predictive Customer Lifetime Value (CLTV) modeling. We collected and preprocessed telecom customer data, merging datasets to enhance insights. By calculating CLTV, we identified high-value customers at risk of churning and used K-means clustering to segment them into high, medium, and low-value groups. Key features like contract type and premium services informed our segmentation.
+
+To address data complexity, we applied Principal Component Analysis (PCA) to reduce dimensionality while preserving essential information. We then built predictive models using Decision Trees and Random Forests, fine-tuning them for optimal results. Our analysis of 1,409 customers revealed that 336 were likely to churn, including 135 high-value customers. This insight allows companies to focus retention efforts on high-value individuals, reducing marketing costs and enhancing retention strategies. By refining product offerings and improving customer service, companies can maintain a competitive edge and ensure long-term success.
